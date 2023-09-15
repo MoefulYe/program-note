@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "62897c7af486fd82",
+        "id": "6639ad542e240b54",
         "type": "tabs",
         "children": [
           {
-            "id": "188c458184e87c66",
+            "id": "a35090cadfc271da",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/todo.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "templates/todo.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,13 +139,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "188c458184e87c66",
+  "active": "a35090cadfc271da",
   "lastOpenFiles": [
-    "templates/comment.md",
+    "web/APi/graphQL.md",
+    "软件命令/tmux.md",
+    "软件命令",
+    "web/APi/restful.md",
+    "templates/<% tp.file.cursor() %>.template",
+    "templates/todo.template",
+    "templates/comment.template",
     "templates/todo.md",
+    "templates/comment.md",
+    "web/APi/API.md",
+    "web/APi/grpc.md",
+    "缓存策略.md",
+    "web/Untitled.md",
+    "web/APi",
     "常用软件/tmux.md",
+    "web",
     "templates/<% tp.file.cursor() %>.md",
-    "Untitled.md",
     "ss.md",
     "2023-09-14.md",
     "常用软件/Untitled.md",
@@ -161,7 +165,6 @@
     "常用软件",
     "操作系统/概述.md",
     "操作系统/Untitled.md",
-    "缓存策略.md",
     "算法",
     "操作系统",
     "asnid.md",
@@ -169,8 +172,6 @@
     "sa.md",
     "Invalid date.md",
     "templates/Untitled 1.md",
-    "templates",
-    "未命名 1",
-    "未命名"
+    "templates"
   ]
 }
