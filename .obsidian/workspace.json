@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/comment.md",
+                "file": "templates/todo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/comment.md",
+                "file": "templates/todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/comment.md",
+                "file": "templates/todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/comment.md"
+                "file": "templates/todo.md"
               }
             }
           }
@@ -147,10 +147,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6e2b96f6ce5239fd",
+  "active": "188c458184e87c66",
   "lastOpenFiles": [
     "templates/comment.md",
-    "templates/comment.md",
+    "templates/todo.md",
     "常用软件/tmux.md",
     "templates/<% tp.file.cursor() %>.md",
     "Untitled.md",
