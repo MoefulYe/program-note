@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "常用软件/tmux.md",
+                "file": "templates/comment.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "常用软件/tmux.md",
+                "file": "templates/comment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "常用软件/tmux.md",
+                "file": "templates/comment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "常用软件/tmux.md"
+                "file": "templates/comment.md"
               }
             }
           }
@@ -149,8 +149,12 @@
   },
   "active": "6e2b96f6ce5239fd",
   "lastOpenFiles": [
-    "ss.md",
+    "templates/comment.md",
+    "templates/comment.md",
     "常用软件/tmux.md",
+    "templates/<% tp.file.cursor() %>.md",
+    "Untitled.md",
+    "ss.md",
     "2023-09-14.md",
     "常用软件/Untitled.md",
     "操作系统/操作系统.md",
@@ -160,7 +164,6 @@
     "缓存策略.md",
     "算法",
     "操作系统",
-    "templates/<% tp.file.cursor() %>.md",
     "asnid.md",
     "Untitled 1.md",
     "sa.md",
