@@ -1,60 +1,39 @@
 {
   "main": {
-    "id": "8fbe7975db8f5922",
+    "id": "17997ba4ad85d29e",
     "type": "split",
     "children": [
       {
-        "id": "a97c5a5a2328c9b5",
+        "id": "589326516f8f4be8",
         "type": "tabs",
         "children": [
           {
-            "id": "04444784a496063e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "c0a7a3679822347e",
+            "id": "f721a9e2c5eb7e04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/操作系统.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "700e2d518e625ccd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "web/api/API架构.md",
+                "file": "软件命令/tmux.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "81fb8d7876d6c014",
+    "id": "9f9735f11a3fe63d",
     "type": "split",
     "children": [
       {
-        "id": "7f6d80b573ffc06a",
+        "id": "e4ac70672aa4351e",
         "type": "tabs",
         "children": [
           {
-            "id": "6e2b96f6ce5239fd",
+            "id": "f2b6ed1c877f8846",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -64,7 +43,7 @@
             }
           },
           {
-            "id": "9dcd958815464b2d",
+            "id": "216e4b950435566b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -79,7 +58,7 @@
             }
           },
           {
-            "id": "898f31bd888d10d6",
+            "id": "335807a3e00fbe14",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -93,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "e1d2d5adaf71e429",
+    "id": "c176c83a946315bb",
     "type": "split",
     "children": [
       {
-        "id": "5e44fe21275f9889",
+        "id": "709be839bb3d396e",
         "type": "tabs",
         "children": [
           {
-            "id": "8fc73ded1f72b2ed",
+            "id": "561ace1fd7450d3a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web/api/API架构.md",
+                "file": "软件命令/tmux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,19 +97,19 @@
             }
           },
           {
-            "id": "3462c104d0597300",
+            "id": "f66d972012428514",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web/api/API架构.md",
+                "file": "软件命令/tmux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4615e08383919bc9",
+            "id": "497983298d9054ea",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -141,12 +120,12 @@
             }
           },
           {
-            "id": "a10001cf69cf792a",
+            "id": "75e60c68e0450c7f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "web/api/API架构.md"
+                "file": "软件命令/tmux.md"
               }
             }
           }
@@ -159,52 +138,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "terminal:Open terminal": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "700e2d518e625ccd",
+  "active": "f721a9e2c5eb7e04",
   "lastOpenFiles": [
-    "web/api/graphql.md",
-    "web/api/grpc.md",
-    "权限模型.md",
-    "README.md",
-    "软件命令/linux下常见命令.md",
-    "软件命令/tmux.md",
-    "缓存策略.md",
-    "操作系统/cpu虚拟化.md",
-    "操作系统/操作系统.md",
-    "操作系统/文件系统.md",
-    "操作系统/概述.md",
-    "操作系统/虚拟内存.md",
-    "web/web.md",
-    "web/api/API架构.md",
-    "算法/Untitled.md",
-    "软件命令",
-    "web/api/restful.md",
-    "templates/<% tp.file.cursor() %>.template",
-    "templates/todo.template",
-    "templates/comment.template",
-    "templates/todo.md",
-    "templates/comment.md",
-    "web/api",
-    "常用软件/tmux.md",
-    "web",
-    "templates/<% tp.file.cursor() %>.md",
-    "ss.md",
-    "2023-09-14.md",
-    "常用软件/Untitled.md",
-    "常用软件",
-    "算法",
-    "操作系统",
-    "asnid.md",
-    "Untitled 1.md",
-    "sa.md",
-    "templates"
+    "操作系统/操作系统.md"
   ]
 }
