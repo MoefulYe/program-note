@@ -8,7 +8,7 @@ tags:
   - api设计
 ---
 ## [[restful]]
-## [[graphQL]]
+## [[graphql]]
 ## [[grpc]]
 
 

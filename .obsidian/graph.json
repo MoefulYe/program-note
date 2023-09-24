@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
-  "search": "tag:#api设计  ",
-  "showTags": true,
+  "search": "",
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.7708885533133205,
-  "close": false
+  "scale": 0.8666299370928924,
+  "close": true
 }

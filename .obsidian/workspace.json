@@ -4,22 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "6639ad542e240b54",
+        "id": "a97c5a5a2328c9b5",
         "type": "tabs",
         "children": [
           {
-            "id": "a35090cadfc271da",
+            "id": "04444784a496063e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "c0a7a3679822347e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/概述.md",
+                "file": "操作系统/操作系统.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "700e2d518e625ccd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "web/api/API架构.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e1d2d5adaf71e429",
@@ -86,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/概述.md",
+                "file": "web/api/API架构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/概述.md",
+                "file": "web/api/API架构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/概述.md"
+                "file": "web/api/API架构.md"
               }
             }
           }
@@ -148,25 +168,31 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a35090cadfc271da",
+  "active": "700e2d518e625ccd",
   "lastOpenFiles": [
-    "算法/Untitled.md",
-    "操作系统/概述.md",
-    "操作系统/操作系统.md",
-    "web/APi/graphQL.md",
+    "web/api/graphql.md",
+    "web/api/grpc.md",
+    "权限模型.md",
+    "README.md",
+    "软件命令/linux下常见命令.md",
     "软件命令/tmux.md",
+    "缓存策略.md",
+    "操作系统/cpu虚拟化.md",
+    "操作系统/操作系统.md",
+    "操作系统/文件系统.md",
+    "操作系统/概述.md",
+    "操作系统/虚拟内存.md",
+    "web/web.md",
+    "web/api/API架构.md",
+    "算法/Untitled.md",
     "软件命令",
-    "web/APi/restful.md",
+    "web/api/restful.md",
     "templates/<% tp.file.cursor() %>.template",
     "templates/todo.template",
     "templates/comment.template",
     "templates/todo.md",
     "templates/comment.md",
-    "web/APi/API.md",
-    "web/APi/grpc.md",
-    "缓存策略.md",
-    "web/Untitled.md",
-    "web/APi",
+    "web/api",
     "常用软件/tmux.md",
     "web",
     "templates/<% tp.file.cursor() %>.md",
@@ -174,14 +200,11 @@
     "2023-09-14.md",
     "常用软件/Untitled.md",
     "常用软件",
-    "操作系统/Untitled.md",
     "算法",
     "操作系统",
     "asnid.md",
     "Untitled 1.md",
     "sa.md",
-    "Invalid date.md",
-    "templates/Untitled 1.md",
     "templates"
   ]
 }
