@@ -2,5 +2,6 @@
   "accentColor": "",
   "cssTheme": "Catppuccin",
   "theme": "obsidian",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "baseFontSize": 16
 }
