@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dcb1cf00bd94dcc8",
+        "id": "267ef4bffe4873c0",
         "type": "tabs",
         "children": [
           {
-            "id": "57d112b1aed92cd8",
+            "id": "2c6922aa92201710",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -140,17 +140,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57d112b1aed92cd8",
+  "active": "2c6922aa92201710",
   "lastOpenFiles": [
-    "操作系统/操作系统概述.md",
-    "操作系统/cpu虚拟化.md",
-    "范式/多线程编程范式.md",
     "操作系统/进程与线程.md",
-    "范式",
     "操作系统/操作系统.md",
-    "操作系统/同步与互斥.md",
-    "操作系统/概述.md",
+    "操作系统/操作系统概述.md",
+    "操作系统/并发.md",
+    "范式/多线程编程范式.md",
     "操作系统/死锁.md",
+    "操作系统/同步与互斥.md",
+    "操作系统/cpu虚拟化.md",
+    "2023-10-01.md",
+    "README.md",
+    "范式",
+    "操作系统/概述.md",
     "操作系统/虚拟内存.md",
     "计算机组成原理/yuan zi.md",
     "计算机组成原理",
