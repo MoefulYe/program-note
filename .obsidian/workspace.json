@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/持久化.md",
+                "file": "软件/gdb.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "166437e0f9c58878",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "内存分配器.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/持久化.md",
+                "file": "内存分配器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/持久化.md",
+                "file": "内存分配器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/持久化.md"
+                "file": "内存分配器.md"
               }
             }
           }
@@ -149,23 +162,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ad521016e3e176a",
+  "active": "166437e0f9c58878",
   "lastOpenFiles": [
+    "操作系统/内存虚拟化.md",
+    "内存分配器.md",
+    "计算机组成原理/riscv.md",
+    "软件/gdb.md",
+    "权限模型.md",
+    "操作系统/持久化.md",
     "软件/linux下硬盘管理和文件系统.md",
     "操作系统/io.md",
     "操作系统/其他/linux启动流程.md",
     "操作系统/操作系统.md",
-    "操作系统/持久化.md",
     "操作系统/同步与互斥.md",
     "操作系统/并发.md",
-    "操作系统/内存虚拟化.md",
     "操作系统/cpu虚拟化.md",
     "assets/img/20231004013004.png",
     "操作系统/文件系统.md",
     "操作系统/死锁.md",
     "assets/img/20231004012308.png",
     "assets/img/20231004003207.png",
-    "权限模型.md",
     "算法/缓存淘汰策略算法.md",
     "assets/img/20231003232217.png",
     "assets/img/20231003231906.png",
@@ -188,9 +204,6 @@
     "2023-10-01.md",
     "README.md",
     "范式",
-    "操作系统/概述.md",
-    "操作系统/虚拟内存.md",
-    "计算机组成原理/yuan zi.md",
     "计算机组成原理",
     "命令/linux命令",
     "命令"
